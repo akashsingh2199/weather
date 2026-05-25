@@ -176,6 +176,9 @@ function App() {
         />
       </div>
     </div>
+    <footer style={{position:"fixed",bottom:'0'}}>
+      <p>Created by <a href="https://github.com/akashsingh2199" style={{color:'white'}}>Akash</a></p>
+    </footer>
   </div>
 )
 }
